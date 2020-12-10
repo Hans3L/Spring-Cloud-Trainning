@@ -1,4 +1,4 @@
-package com.creativity.stack.roomreservationservice.domain;
+package com.creativity.stack.roomreservationservice.dto;
 
 import java.util.Date;
 
